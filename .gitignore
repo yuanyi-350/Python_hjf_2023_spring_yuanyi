@@ -7,8 +7,8 @@ __pycache__/
 # C extensions
 *.so
 
-.gitignore
-.gitattributes
+# .gitignore
+# .gitattributes
 .DS_Store
 # Distribution / packaging
 .Python
